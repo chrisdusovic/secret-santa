@@ -1,6 +1,6 @@
 # Secret Santa
 
-#### Purpose: create a series of matches from a list of people
+#### Purpose: create a series of matches from a list of people and automatically notify participants of their match
 
 ##### Usage:
 1. Create a list of participants, each on their own line.
